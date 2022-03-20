@@ -1,0 +1,7 @@
+.styleme::before {
+  content: "before";
+}
+
+div::after {
+  content: "after";
+}
